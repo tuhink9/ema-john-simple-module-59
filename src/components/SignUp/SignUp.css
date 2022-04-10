@@ -32,13 +32,12 @@
 .form-submit {
     width: 415px;
     height: 55px;
-    background-color:#e6b365;
+    background-color:#f8dbb0;
     border: none;
     border-radius: 7px;
     font-size: 25px;
 }
 .form-submit:hover {
-    background-color: #f6b350;
     cursor:pointer;
 }
 .form-link {
